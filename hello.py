@@ -1,3 +1,4 @@
 print ("my name is Vanya")
-print("I was born in October")
-print("my name is Will")
+print ("i was born in May")
+print ("my name is Will")
+print ("I was born in October")
