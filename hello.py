@@ -1,6 +1,7 @@
 print ("my name is Vanya")
 print ("i was born in May")
 print ("My mom's name is Nastya")
+print ("My father's name is Dmitri")
 
 print ("my name is Will")
 print ("I was born in October")
