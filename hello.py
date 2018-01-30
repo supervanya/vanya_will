@@ -1,5 +1,10 @@
 print ("my name is Vanya")
 print ("i was born in May")
+print ("My mom's name is Nastya")
+
 print ("my name is Will")
 print ("I was born in October")
-print ("My mom's name is Nastya")
+print ("My favorite food is sushi")
+print ("My favorite music is rap")
+print ("My astrological sign is Libra")
+print ("My mothers maiden name is Huang")
